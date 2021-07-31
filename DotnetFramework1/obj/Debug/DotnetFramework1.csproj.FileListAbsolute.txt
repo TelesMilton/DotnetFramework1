@@ -1,0 +1,7 @@
+C:\Users\Milton\source\repos\DotnetFramework1\DotnetFramework1\bin\Debug\DotnetFramework1.exe.config
+C:\Users\Milton\source\repos\DotnetFramework1\DotnetFramework1\bin\Debug\DotnetFramework1.exe
+C:\Users\Milton\source\repos\DotnetFramework1\DotnetFramework1\bin\Debug\DotnetFramework1.pdb
+C:\Users\Milton\source\repos\DotnetFramework1\DotnetFramework1\obj\Debug\DotnetFramework1.csproj.AssemblyReference.cache
+C:\Users\Milton\source\repos\DotnetFramework1\DotnetFramework1\obj\Debug\DotnetFramework1.csproj.CoreCompileInputs.cache
+C:\Users\Milton\source\repos\DotnetFramework1\DotnetFramework1\obj\Debug\DotnetFramework1.exe
+C:\Users\Milton\source\repos\DotnetFramework1\DotnetFramework1\obj\Debug\DotnetFramework1.pdb
